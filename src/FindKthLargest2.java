@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// Finding The largest Kth number and print in the ascending order.
+// Finding The largest Kth number and print in the descending order.
 public class FindKthLargest2 {
 
     static void findlargest(int []arr, int k){
